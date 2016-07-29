@@ -4,6 +4,7 @@
     <map src="locales/en_us_rural/map.tmx" />
     <music src="locales/en_us_rural/sounds/background.mp3" />
 
+
     <!-- Default blocks -->
     <inventory size="1x2" name="Barn" col="37" row="43" block="locales/en_us_rural/textures/biginventory.png" />
     <market size="2x1" name="Market" col="42" row="40" block="locales/en_us_rural/textures/bigmarket.png" />
